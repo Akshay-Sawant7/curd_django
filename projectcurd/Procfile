@@ -1,0 +1,1 @@
+web: gunicorn projectcurd.wsgi --log-file
